@@ -8,3 +8,26 @@
     pointer-events: none;
     cursor: default;
  }
+
+ .new_Anchor{
+     color: white;
+ }
+
+ .new_Anchor:hover{
+    color: white;
+}
+
+#messages{
+
+    overflow: auto;
+}
+
+.input{
+    button{
+        display: none;
+    }
+}
+
+.ui.vertical.menu{
+    width: auto !important;
+}
